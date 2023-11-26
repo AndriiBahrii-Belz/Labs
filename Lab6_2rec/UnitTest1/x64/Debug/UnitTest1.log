@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Users\andri\source\repos\Lab6_2rec\Lab6_2rec\main.cpp(49,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library C:\Users\andri\source\repos\Lab6_2rec\x64\Debug\UnitTest1.lib and object C:\Users\andri\source\repos\Lab6_2rec\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\andri\source\repos\Lab6_2rec\x64\Debug\UnitTest1.dll
