@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\andri\source\repos\Lab8_1CHAR\Lab8_1CHAR\main.cpp(7,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andri\source\repos\Lab8_1CHAR\Lab8_1CHAR\main.cpp(24,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Lab8_1CHAR.vcxproj -> C:\Users\andri\source\repos\Lab8_1CHAR\x64\Debug\Lab8_1CHAR.exe
