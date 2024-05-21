@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\andri\source\repos\Lab12_9\Lab12_9\main.cpp(100,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andri\source\repos\Lab12_9\Lab12_9\main.cpp(121,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Lab12_9.vcxproj -> C:\Users\andri\source\repos\Lab12_9\x64\Debug\Lab12_9.exe
