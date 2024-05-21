@@ -1,0 +1,13 @@
+﻿  UnitTest1.cpp
+C:\Users\andri\source\repos\Lab12_7\Lab12_7\main.cpp(49,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andri\source\repos\Lab12_7\Lab12_7\main.cpp(50,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andri\source\repos\Lab12_7\Lab12_7\main.cpp(51,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andri\source\repos\Lab12_7\Lab12_7\main.cpp(52,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andri\source\repos\Lab12_7\Lab12_7\main.cpp(53,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andri\source\repos\Lab12_7\Lab12_7\main.cpp(54,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andri\source\repos\Lab12_7\Lab12_7\main.cpp(55,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andri\source\repos\Lab12_7\Lab12_7\main.cpp(56,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andri\source\repos\Lab12_7\Lab12_7\main.cpp(57,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andri\source\repos\Lab12_7\UnitTest1\UnitTest1.cpp(17,48): warning C4305: 'argument': truncation from 'double' to 'float'
+     Creating library C:\Users\andri\source\repos\Lab12_7\x64\Debug\UnitTest1.lib and object C:\Users\andri\source\repos\Lab12_7\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\andri\source\repos\Lab12_7\x64\Debug\UnitTest1.dll
