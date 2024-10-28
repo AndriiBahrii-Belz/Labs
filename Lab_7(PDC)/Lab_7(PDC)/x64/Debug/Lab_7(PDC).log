@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\andri\source\repos\Lab_7(PDC)\Lab_7(PDC)\main.cpp(39,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andri\source\repos\Lab_7(PDC)\Lab_7(PDC)\main.cpp(90,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab_7(PDC).vcxproj -> C:\Users\andri\source\repos\Lab_7(PDC)\x64\Debug\Lab_7(PDC).exe
