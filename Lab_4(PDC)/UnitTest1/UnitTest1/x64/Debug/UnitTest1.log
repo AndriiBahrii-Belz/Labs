@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\andri\source\repos\Lab_4(PDC)\Lab_4(PDC)\main.cpp(17,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\andri\source\repos\Lab_4(PDC)\Lab_4(PDC)\main.cpp(101,13): warning C4566: character represented by universal-character-name '\u2264' cannot be represented in the current code page (1251)
+  (compiling source file '/UnitTest1.cpp')
+  
+     Creating library C:\Users\andri\source\repos\Lab_4(PDC)\UnitTest1\x64\Debug\UnitTest1.lib and object C:\Users\andri\source\repos\Lab_4(PDC)\UnitTest1\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\andri\source\repos\Lab_4(PDC)\UnitTest1\x64\Debug\UnitTest1.dll
