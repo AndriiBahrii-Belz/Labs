@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\andri\source\repos\Lab_5(PDC)\Lab_5(PDC)\main.cpp(43,13): warning C4566: character represented by universal-character-name '\u2229' cannot be represented in the current code page (1251)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\andri\source\repos\Lab_5(PDC)\Lab_5(PDC)\main.cpp(44,13): warning C4566: character represented by universal-character-name '\u222A' cannot be represented in the current code page (1251)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\andri\source\repos\Lab_5(PDC)\Lab_5(PDC)\main.cpp(46,13): warning C4566: character represented by universal-character-name '\u2295' cannot be represented in the current code page (1251)
+  (compiling source file '/UnitTest1.cpp')
+  
+     Creating library C:\Users\andri\source\repos\Lab_5(PDC)\UnitTest1\x64\Debug\UnitTest1.lib and object C:\Users\andri\source\repos\Lab_5(PDC)\UnitTest1\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\andri\source\repos\Lab_5(PDC)\UnitTest1\x64\Debug\UnitTest1.dll
