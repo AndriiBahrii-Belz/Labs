@@ -1,0 +1,6 @@
+﻿  array_utils.cpp
+C:\Users\andri\source\repos\Lab_14(OOP)\Lab_14(OOP)\array_utils.cpp(31,20): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\andri\source\repos\Lab_14(OOP)\Lab_14(OOP)\array_utils.cpp(35,20): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Lab_14(OOP).vcxproj -> C:\Users\andri\source\repos\Lab_14(OOP)\Lab_14(OOP)\x64\Debug\Lab_14(OOP).exe
