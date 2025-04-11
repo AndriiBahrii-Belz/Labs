@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\andri\source\repos\1_Курс\OS_3(1)\OS_3(1)\main.cpp(83,15): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\andri\source\repos\1_Курс\OS_3(1)\OS_3(1)\main.cpp(200,29): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\andri\source\repos\1_Курс\OS_3(1)\OS_3(1)\main.cpp(201,31): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+  OS_3(1).vcxproj -> C:\Users\andri\source\repos\1_Курс\OS_3(1)\x64\Debug\OS_3(1).exe
